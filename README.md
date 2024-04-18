@@ -6,17 +6,23 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ## 1. Introdução (Até dia 04/04)
 
-***1.1.  Nome do Grupo***
+***1.1.  Se7e***
 
-Indicar o nome e github dos integrantes do grupo
+Felipe Bezerra
+Gustavo Henrique
+Leonardo Girotto
+Lucas Gabriel
+Messias X. Magalhães
+Wenio Oliveira Silva 
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
+Atualmente o Grupo ELLP enfrenta dificuldades devido ao uso de métodos manuais para o controle dos voluntários envolvidos e das oficinas ofertadas. Esse processo manual consome tempo significativo e pode resultar em filas para a conclusão das tarefas individuis, impactando negativamente a eficiência e a organização das atividaades do projeto. Isso repercute diretamente na experiência dos voluntários e coordenador do projeto, prejudicando a qualidade do ensino oferecido e comprometendo a dinâmica geral do ELLP.
 
 ***1.3.  Análise dos sistemas concorrentes***
 
-Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
+Como concorrente pode-se ser implementado um voluntário para exercer apenas essa função dentro do projeto, porém dessa maneira haveria um conflito no controle do coordenador para supervisionar essa função e outro voluntário.
+Outro concorrente que pode ser citado é o excell, fazendo o controle através de planilhas, mesmo funcionando não seria o ideal, isso por não suprir todas as necessidades dos público alvo.
 
 ***1.2.  Público Alvo***
 
