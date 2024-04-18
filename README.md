@@ -8,12 +8,12 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ***1.1.  Se7e***
 
-Felipe Bezerra
-Gustavo Henrique
-Leonardo Girotto
-Lucas Gabriel
-Messias X. Magalhães
-Wenio Oliveira Silva 
+*Felipe Bezerra*
+*Gustavo Henrique*
+*Leonardo Girotto*
+*Lucas Gabriel*
+*Messias X. Magalhães*
+*Wenio Oliveira Silva* 
 
 ***1.2.  Problema***
 
