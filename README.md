@@ -36,9 +36,8 @@ Outro concorrente que pode ser citado é o excel, fazendo o controle através de
 Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes resultados e avaliações:
 
 - [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScExnCS4WenUT4uYPOtUoMP9fodJMs4NRS2oCz9RrmibJ14Pg/viewform?usp=sf_link)
-- [Graficos de pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOSDAPESQUISA.pdf)
-
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
+- [Graficos de Pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOSDAPESQUISA.pdf)
+- [Entrevista Transcrita](**INSERIR O LINK DO ARQUIVO DA ENTREVISTA TRANSCRITA AQUI**)
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
