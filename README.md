@@ -36,6 +36,8 @@ Outro concorrente que pode ser citado é o excel, fazendo o controle através de
 Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
+R: Link para o formulario: https://docs.google.com/forms/d/e/1FAIpQLScExnCS4WenUT4uYPOtUoMP9fodJMs4NRS2oCz9RrmibJ14Pg/viewform?usp=sf_link
+→ [Graficos de pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOSDAPESQUISA.pdf)
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
