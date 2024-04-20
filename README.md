@@ -69,7 +69,7 @@ No escritório do Grupo ELLP, localizado na UTFPR - Campus Cornélio Procópio, 
 - Voluntários do Grupo ELLP
 
 **Objetivos:**
-Garantir o controle eficiente dos voluntários e das oficinas do projeto ELLP, mesmo utilizando métodos manuais.
+Garantir o controle eficiente dos voluntários e das oficinas do projeto ELLP, sem utilizar métodos manuais.
 
 **Planejamento:**
 O coordenador precisa revisar e organizar manualmente todos os documentos relacionados aos voluntários e às oficinas do ELLP, o que consome muito tempo e recursos.
