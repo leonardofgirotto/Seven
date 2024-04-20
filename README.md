@@ -36,7 +36,7 @@ Outro concorrente que pode ser citado é o excel, fazendo o controle através de
 Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes resultados e avaliações:
 
 - [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScExnCS4WenUT4uYPOtUoMP9fodJMs4NRS2oCz9RrmibJ14Pg/viewform?usp=sf_link)
-- [Graficos de Pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOSDAPESQUISA.pdf)
+- [Graficos de Pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOS%20DA%20PESQUISA.pdf)
 - [Entrevista Transcrita](**INSERIR O LINK DO ARQUIVO DA ENTREVISTA TRANSCRITA AQUI**)
 
 ## 2. Perfil do usuário (Até dia 18/04)
