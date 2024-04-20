@@ -33,9 +33,7 @@ Outro concorrente que pode ser citado é o excel, fazendo o controle através de
 
 ***1.2.  Público Alvo***
 
-Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
-
-**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
+Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes resultados e avaliações:
 
 - [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScExnCS4WenUT4uYPOtUoMP9fodJMs4NRS2oCz9RrmibJ14Pg/viewform?usp=sf_link)
 - [Graficos de pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/GRAFICOSDAPESQUISA.pdf)
