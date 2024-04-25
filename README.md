@@ -43,6 +43,11 @@ Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes re
 
 ### 2.1. Descrição dos Usuários: Personas
 
+<img src="Coordenador.png">
+
+<img src="Voluntario.png">
+
+
 
 ### 2.2. Análise de Tarefas: ANTES
 
@@ -90,9 +95,9 @@ Posteriormente, Lucas se envolve na preparação das oficinas, contribuindo para
 
 #### Cenário: Depois
 
-Maria, a professora voluntária, desempenha um papel central na transformação do cenário do projeto ELLP, de sua casa, assume a responsabilidade, acessando o computador e navegando pelo site do ELLP para gerenciar todas as informações relacionadas às oficinas e aos voluntários. 
-Com determinação e eficiência, Maria organiza os detalhes necessários para as atividades do dia. Ao chegar à UTFPR-CP, é recebida na entrada pelo coordenador do projeto com um gesto cordial de saudação. 
-Maria entra na sala de aula com confiança, pronta para iniciar as atividades com os alunos. Este novo processo automatizado e integrado, proporciona uma experiência mais eficiente e organizada para todos os envolvidos no projeto, elevando a qualidade e a eficácia do Ensino Lúdico de Lógica e Programação.
+Julia, a professora voluntária, desempenha um papel central na transformação do cenário do projeto ELLP, de sua casa, assume a responsabilidade, acessando o computador e navegando pelo site do ELLP para gerenciar todas as informações relacionadas às oficinas e aos voluntários. 
+Com determinação e eficiência, Julia organiza os detalhes necessários para as atividades do dia. Ao chegar à UTFPR-CP, é recebida na entrada pelo coordenador do projeto com um gesto cordial de saudação. 
+Julia entra na sala de aula com confiança, pronta para iniciar as atividades com os alunos. Este novo processo automatizado e integrado, proporciona uma experiência mais eficiente e organizada para todos os envolvidos no projeto, elevando a qualidade e a eficácia do Ensino Lúdico de Lógica e Programação.
 
 ## 3. Design (Até dia 16/05)
 
