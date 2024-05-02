@@ -50,13 +50,13 @@ Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes re
 
 ### 2.2. Análise de Tarefas: ANTES
 
-Apresente uma análise  de como as tarefas são atualmente realizadas pelo usuário, ou seja, sem o sistema que você pretende desenvolver. A coleta de dados para essa análise deve ser baseada na parte 1 do projeto. Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+Devido a grande quantidade de papelada e a disponibilidade de ambos participantes, tanto coordenador quanto voluntário, o processo de inscrição acaba sendo pouco eficiênte.
 
 → [StoryBoard Antes](https://github.com/leonardofgirotto/Seven/blob/main/antes.pdf)
 
 ### 2.3. Análise de Tarefas: DEPOIS
 
-Apresente uma análise de como você prevê as tarefas sendo realizadas pelo usuário quando o seu sistema estiver disponível (ou seja, quando ele estivesse 100% implementado). Apresente o resultado na forma de um cenário textual ou pictográfico (*storyboard*).
+Com a utilização do software, ambos participantes, tanto coordenador quanto voluntário, podem realizar as tarefas necessárias em seu próprio tempo disponível e da sua própria casa, agilisando assim o processo e diminuindo as tarefas manuais.
 
 → [StoryBoard Depois](https://github.com/leonardofgirotto/Seven/blob/main/depois.pdf)
 
