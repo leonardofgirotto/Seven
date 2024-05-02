@@ -102,7 +102,25 @@ Julia entra na sala de aula com confiança, pronta para iniciar as atividades co
 
 ***3.1. Requisitos Funcionais***
 
-Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema deveria fazer).  No mínimo 15 requisitos. 
+| ID  | Funcionalidade | Prioridade |
+|-----|----------------|------------|
+| RF01 | O sistema deve permitir o cadastro de voluntários exigindo nome, data de nascimento, CPF, nacionalidade, status de estudante da UTFPR, curso, período, RA, endereço, cidade, estado, telefone e e-mail. | Essencial |
+| RF02 | O sistema deve permitir o cadastro do coordenador responsável, exigindo nome, CPF, departamento, telefone e e-mail. | Essencial |
+| RF03 | O sistema deve permitir a criação de uma senha na etapa de cadastro, tanto para voluntários quanto para coordenador, para posteriormente ser utilizada para realizar o login. | Essencial |
+| RF04 | O sistema deve permitir que os voluntários realizem o login para acessar o sistema, utilizando o RA e a senha cadastrada. | Essencial |
+| RF05 | O sistema deve permitir que o coordenador realize o login para acessar o sistema, utilizando o e-mail e a senha cadastrada. | Essencial |
+| RF06 | O sistema deve permitir o cadastro dos dados da ação pelo coordenador, exigindo o título da ação (ELLP), qual a modalidade e a vigência, incluindo a data de início e fim. | Essencial |
+| RF07 | O sistema deve permitir que o coordenador cadastre as atividades a serem desenvolvidas pelo voluntário. | Essencial |
+| RF08 | O sistema deve permitir que o coordenador cadastre o cronograma das atividades a serem desenvolvidas pelo voluntário. | Essencial |
+| RF09 | O sistema deve permitir a consulta do perfil pelo voluntário. | Importante |
+| RF10 | O sistema deve permitir a consulta dos dados do voluntário pelo coordenador. | Importante |
+| RF11 | O sistema deve permitir a alteração dos dados do voluntário pelo coordenador. | Importante |
+| RF12 | O sistema deve permitir ao coordenador incluir a data de saída do voluntário, possibilitando ter um histórico de voluntários. | Importante |
+| RF13 | O sistema deve permitir o cadastro da oficina pelo coordenador ou pelo voluntário, exigindo qual o tema da oficina, o voluntário que desempenhará o papel de professor, sala onde irá ocorrer e período, incluindo data de início e fim. | Importante |
+| RF14 | O sistema deve possuir os dados da instituição, como nome da instituição e câmpus, pré-cadastrados. | Essencial |
+| RF15 | O sistema deve possuir as condições gerais do termo de adesão pré-cadastrado. | Essencial |
+| RF16 | O sistema deve permitir a geração e impressão do termo de adesão de voluntariado, contendo informações como dados da instituição, dados da ação, dados do coordenador, dados do voluntário, atividades a serem desenvolvidas pelo voluntário, cronograma dessas atividades e condições gerais. Além disso, o termo deve seguir as especificações e requisitos estipulados pela instituição universitária. | Essencial |
+
     
 ***3.2. Descrição textual***    
 
