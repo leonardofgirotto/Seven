@@ -128,7 +128,9 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 
 ***3.3. Design preliminar***      
 
-Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
+Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema.
+
+- [Sketches](https://drive.google.com/drive/u/0/folders/1vaEoyT-PEI2fVdPiR_zEJskEAyUVh_hP)
 
 ## 4. Protótipo (Até dia 23/05)
 
