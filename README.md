@@ -142,6 +142,10 @@ Para os Voluntários:
 
  Trazendo um design intuitivo, limpo e atual.
 
+***3.3. Design preliminar***      
+
+- [Protótipo Baixa Fidelidade](https://drive.google.com/drive/u/0/folders/1vaEoyT-PEI2fVdPiR_zEJskEAyUVh_hP)
+
 ## 4. Protótipo (Até dia 23/05)
 
 - [Protótipo Alta Fidelidade](https://www.figma.com/design/VfouutCSlftGXb7kTlFvya/ELLP-Manager?node-id=0-1&t=FLbvzKjwgVqtNi9b-1)
