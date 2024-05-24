@@ -122,7 +122,7 @@ Maria entra na sala de aula com confiança, pronta para iniciar as atividades co
 | RF16 | O sistema deve permitir a geração e impressão do termo de adesão de voluntariado, contendo informações como dados da instituição, dados da ação, dados do coordenador, dados do voluntário, atividades a serem desenvolvidas pelo voluntário, cronograma dessas atividades e condições gerais. Além disso, o termo deve seguir as especificações e requisitos estipulados pela instituição universitária. | Essencial |
 
     
-***3.2. Descrição textual**
+**3.2. Descrição textual**
 
 Para o Coordenador, as funcionalidades incluem:
 
