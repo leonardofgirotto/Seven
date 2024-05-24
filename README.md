@@ -124,7 +124,23 @@ Maria entra na sala de aula com confiança, pronta para iniciar as atividades co
     
 ***3.2. Descrição textual***    
 
-Apresente uma descrição textual resumida do seu design.  Quais as funcionalidades, principais escolhas de design, dentre outros. 
+Para o coordenador, as funcionalidades incluem:
+
+Realizar cadastro
+Identificação e autenticação
+Consultar e alterar dados dos voluntários
+Cadastrar oficinas, dados da ação, atividades e cronograma
+Geração e impressão do termo de adesão de voluntariado
+
+Para os voluntários:
+
+Realizar cadastro
+Identificação e autenticação
+Cadastrar oficina
+Consultar perfil
+Geração e impressão do termo de adesão de voluntariado
+
+Com design simples e intuitivo
 
 ***3.3. Design preliminar***      
 
