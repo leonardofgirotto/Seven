@@ -124,7 +124,7 @@ Maria entra na sala de aula com confiança, pronta para iniciar as atividades co
     
 ***3.2. Descrição textual**
 
-# Para o Coordenador, as funcionalidades incluem:
+Para o Coordenador, as funcionalidades incluem:
 
 - Realizar cadastro
 - Identificação e autenticação
@@ -132,7 +132,7 @@ Maria entra na sala de aula com confiança, pronta para iniciar as atividades co
 - Cadastrar oficinas, dados da ação, atividades e cronograma
 - Geração e impressão do termo de adesão de voluntariado
 
-# Para os Voluntários:
+Para os Voluntários:
 
 - Realizar cadastro
 - Identificação e autenticação
