@@ -177,14 +177,15 @@ ANTES de conduzir o teste, defina as seguintes questões:
         - Coordenador do ELLP.
         - Voluntário do ELLP.
 -   Quais tarefas serão solicitadas aos usuários?
-        Aluno:
+  
+  Aluno:
 
         Cadastrar
         Sair
         Login
         Consultar perfil
         Gerar termo de adesão
-            Imprimir o termo
+            - Imprimir o termo
         Visualizar oficinas
         Sair
 
@@ -194,16 +195,17 @@ Coordenador:
     Sair
     Login
     Consultar voluntários
-        Pesquisar por um voluntário
-        Visualizar as informações dele
-        Editar informações do voluntário selecionado
+        - Pesquisar por um voluntário
+        - Visualizar as informações dele
+        - Editar informações do voluntário selecionado
     Gerar e imprimir o termo de adesão do voluntário selecionado
     Visualizar a lista de oficinas cadastradas
-        Cadastrar uma nova oficina
+        - Cadastrar uma nova oficina
     Visualizar as atividades cadastradas
-        Cadastrar uma nova atividade
+        - Cadastrar uma nova atividade
     Sair
 -   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?
+  
     Cadastro:
     
         Usuário preenche todos os campos obrigatórios e envia o formulário com sucesso.
