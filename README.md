@@ -160,13 +160,88 @@ Esta avaliação consiste na aplicação do método Think  Aloud com dois usuár
 
 ANTES de conduzir o teste, defina as seguintes questões:
 
--   O que se deseja obter?    
--   Quando e onde vai acontecer?    
--   Qual a duração prevista de cada sessão?    
--   Qual o estado do sistema no início do teste?    
--   Quem serão os usuários?    
--   Quais tarefas serão solicitadas aos usuários?    
--   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?    
+-   O que se deseja obter?
+        - Identificar os principais problemas de usabilidade do protótipo.
+        - Coletar feedback sobre a experiência do usuário.
+        - Verificar se os usuários conseguem completar as tarefas sem dificuldade.
+        - Avaliar a eficiência, eficácia e satisfação dos usuários ao interagir com o sistema. 
+-   Quando e onde vai acontecer?
+        Data: 13/06/2024
+        Local: Casa de um dos membros da equipe. 
+-   Qual a duração prevista de cada sessão?
+        Aproximadamente 10 minutos a 15 minutos por usuário.
+-   Qual o estado do sistema no início do teste?
+        - O sistema deve estar configurado no protótipo funcional que os usuários irão testar.
+        - Dados de exemplo (como informações de voluntários e oficinas) devem estar pré-carregados.
+-   Quem serão os usuários?
+        - Coordenador do ELLP.
+        - Voluntário do ELLP.
+-   Quais tarefas serão solicitadas aos usuários?
+        Aluno:
+
+        Cadastrar
+        Sair
+        Login
+        Consultar perfil
+        Gerar termo de adesão
+            Imprimir o termo
+        Visualizar oficinas
+        Sair
+
+Coordenador:
+
+    Cadastrar
+    Sair
+    Login
+    Consultar voluntários
+        Pesquisar por um voluntário
+        Visualizar as informações dele
+        Editar informações do voluntário selecionado
+    Gerar e imprimir o termo de adesão do voluntário selecionado
+    Visualizar a lista de oficinas cadastradas
+        Cadastrar uma nova oficina
+    Visualizar as atividades cadastradas
+        Cadastrar uma nova atividade
+    Sair
+-   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?
+    Cadastro:
+    
+        Usuário preenche todos os campos obrigatórios e envia o formulário com sucesso.
+        Sistema confirma o cadastro com uma mensagem de sucesso.
+    
+    Login:
+    
+        Usuário insere credenciais corretas e acessa a página inicial.
+        Sistema redireciona o usuário para a área correta (Aluno ou Coordenador).
+    
+    Consultar perfil:
+    
+        Usuário navega até a página de perfil e visualiza suas informações pessoais.
+    
+    Gerar termo de adesão:
+    
+        Usuário navega até a funcionalidade de gerar termo de adesão e visualiza o documento gerado.
+    
+    Imprimir o termo:
+    
+        Usuário acessa a opção de imprimir o termo e confirma que a impressão foi iniciada (simulada se necessário).
+    
+    Visualizar oficinas:
+    
+        Usuário acessa a lista de oficinas disponíveis e visualiza as informações detalhadas de pelo menos uma oficina.
+    
+    Consultar voluntários (Coordenador):
+    
+        Usuário realiza uma busca por um voluntário e visualiza as informações dele.
+        Usuário edita informações do voluntário e confirma a atualização.
+    
+    Gerar e imprimir o termo de adesão do voluntário selecionado (Coordenador):
+    
+        Usuário gera o termo de adesão de um voluntário específico e inicia a impressão do documento.
+    
+    Cadastrar nova oficina ou atividade (Coordenador):
+    
+        Usuário preenche o formulário de cadastro de oficina/atividade e confirma o cadastro com sucesso.
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
