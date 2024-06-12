@@ -161,24 +161,29 @@ Esta avaliação consiste na aplicação do método Think  Aloud com dois usuár
 ANTES de conduzir o teste, defina as seguintes questões:
 
 -   O que se deseja obter?
+
         - Identificar os principais problemas de usabilidade do protótipo.
         - Coletar feedback sobre a experiência do usuário.
         - Verificar se os usuários conseguem completar as tarefas sem dificuldade.
         - Avaliar a eficiência, eficácia e satisfação dos usuários ao interagir com o sistema. 
 -   Quando e onde vai acontecer?
+  
         Data: 13/06/2024
         Local: Casa de um dos membros da equipe. 
 -   Qual a duração prevista de cada sessão?
+  
         Aproximadamente 10 minutos a 15 minutos por usuário.
 -   Qual o estado do sistema no início do teste?
+  
         - O sistema deve estar configurado no protótipo funcional que os usuários irão testar.
         - Dados de exemplo (como informações de voluntários e oficinas) devem estar pré-carregados.
 -   Quem serão os usuários?
+  
         - Coordenador do ELLP.
         - Voluntário do ELLP.
 -   Quais tarefas serão solicitadas aos usuários?
   
-  Aluno:
+  Para o Aluno:
 
         Cadastrar
         Sair
@@ -189,7 +194,7 @@ ANTES de conduzir o teste, defina as seguintes questões:
         Visualizar oficinas
         Sair
 
-Coordenador:
+  Para o Coordenador:
 
     Cadastrar
     Sair
