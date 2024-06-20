@@ -250,7 +250,7 @@ Esta avaliação consiste na aplicação do método Think Aloud com dois usuári
     
         Usuário preenche o formulário de cadastro de oficina/atividade e confirma o cadastro com sucesso.
     
-***6.0. Resultados Obtidos e Conclusão*** 
+## 6 Resultados Obtidos e Conclusão
 
 A avaliação do sistema foi realizada com dois usuários-chave, sendo eles um voluntário e um coordenador. Ambos os usuários forneceram feedback positivo, destacando que o sistema é rápido e possui uma navegação intuitiva. Foi mencionado por parte do coordenador apenas um ponto a melhorar no design, na questão de exibir horario que ocorre as oficinas, na tela de visualizar oficinas.
   
