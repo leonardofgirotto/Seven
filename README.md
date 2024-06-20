@@ -115,12 +115,10 @@ Maria entra na sala de aula com confiança, pronta para iniciar as atividades co
 | RF09 | O sistema deve permitir a consulta do perfil pelo voluntário. | Importante |
 | RF10 | O sistema deve permitir a consulta dos dados do voluntário pelo coordenador. | Importante |
 | RF11 | O sistema deve permitir a alteração dos dados do voluntário pelo coordenador. | Importante |
-| RF12 | O sistema deve permitir ao coordenador incluir a data de saída do voluntário, possibilitando ter um histórico de voluntários. | Importante |
+| RF12 | O sistema deve permitir a geração e impressão do termo de adesão de voluntariado, contendo informações como dados da instituição, dados da ação, dados do coordenador, dados do voluntário, atividades a serem desenvolvidas pelo voluntário, cronograma dessas atividades e condições gerais. Além disso, o termo deve seguir as especificações e requisitos estipulados pela instituição universitária. | Essencial |
 | RF13 | O sistema deve permitir o cadastro da oficina pelo coordenador ou pelo voluntário, exigindo qual o tema da oficina, o voluntário que desempenhará o papel de professor, sala onde irá ocorrer e período, incluindo data de início e fim. | Importante |
 | RF14 | O sistema deve possuir os dados da instituição, como nome da instituição e câmpus, pré-cadastrados. | Essencial |
 | RF15 | O sistema deve possuir as condições gerais do termo de adesão pré-cadastrado. | Essencial |
-| RF16 | O sistema deve permitir a geração e impressão do termo de adesão de voluntariado, contendo informações como dados da instituição, dados da ação, dados do coordenador, dados do voluntário, atividades a serem desenvolvidas pelo voluntário, cronograma dessas atividades e condições gerais. Além disso, o termo deve seguir as especificações e requisitos estipulados pela instituição universitária. | Essencial |
-
     
 **3.2. Descrição textual**
 
