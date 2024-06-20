@@ -4,7 +4,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Interação Homem Computador da UTFPR - Campus Cornélio Procópio. 
 
-## 1. Introdução (Até dia 04/04)
+## 1. Introdução 
 
 ***1.1.  Seven***
 
@@ -39,7 +39,7 @@ Após aplicado o formulário e realizado a entrevista, obtivemos os seguintes re
 - [Graficos de Pesquisa](https://github.com/leonardofgirotto/Seven/blob/main/Perfil%20do%20usu%C3%A1rio/GRAFICOS%20DA%20PESQUISA.pdf)
 - [Entrevista Transcrita](https://docs.google.com/document/d/1-11R3eVuyAWT4ujsGSH8uhgkwWXZKmoNSDNPkPdqZ2A/edit?usp=sharing)
 
-## 2. Perfil do usuário (Até dia 18/04)
+## 2. Perfil do usuário
 
 ### 2.1. Descrição dos Usuários: Personas
 
@@ -98,7 +98,7 @@ Maria, a professora voluntária, desempenha um papel central na transformação 
 Com determinação e eficiência, Maria organiza os detalhes necessários para as atividades do dia. Ao chegar à UTFPR-CP, é recebida na entrada pelo coordenador do projeto com um gesto cordial de saudação. 
 Maria entra na sala de aula com confiança, pronta para iniciar as atividades com os alunos. Este novo processo automatizado e integrado, proporciona uma experiência mais eficiente e organizada para todos os envolvidos no projeto, elevando a qualidade e a eficácia do Ensino Lúdico de Lógica e Programação.
 
-## 3. Design (Até dia 16/05)
+## 3. Design
 
 ***3.1. Requisitos Funcionais***
 
@@ -146,33 +146,33 @@ Para os Voluntários:
 
 - [Protótipo Baixa Fidelidade](https://drive.google.com/drive/u/0/folders/1vaEoyT-PEI2fVdPiR_zEJskEAyUVh_hP)
 
-## 4. Protótipo (Até dia 23/05)
+## 4. Protótipo
 
 - [Protótipo Alta Fidelidade](https://www.figma.com/design/VfouutCSlftGXb7kTlFvya/ELLP-Manager?node-id=0-1&t=FLbvzKjwgVqtNi9b-1)
 
-## 5. Avaliação e Re-Design (Até dia 13/06)
+## 5. Avaliação e Re-Design 
 
 ***5.1. Avaliação com usuários*** 
 
-Esta avaliação consiste na aplicação do método Think  Aloud com dois usuários. Vocês devem gravar o áudio do usuário e a tela do protótipo durante o teste.
+Esta avaliação consiste na aplicação do método Think Aloud com dois usuários. 
 
--   Apresentar um vídeo de 3 minutos que resume os principais problemas encontrados.    
+- [Teste de Usabilidade com Usuários](https://drive.google.com/drive/u/0/folders/1NNN1JqZIuAbRXBu1tbBXDjnuxxmtmKg4)
 
-ANTES de conduzir o teste, defina as seguintes questões:
-
--   O que se deseja obter?
+    
+-   O que procuramos obter com os testes:
 
         - Identificar os principais problemas de usabilidade do protótipo.
         - Coletar feedback sobre a experiência do usuário.
         - Verificar se os usuários conseguem completar as tarefas sem dificuldade.
-        - Avaliar a eficiência, eficácia e satisfação dos usuários ao interagir com o sistema. 
+        - Avaliar a eficiência, eficácia e satisfação dos usuários ao interagir com o sistema.
+    
 -   Quando e onde vai acontecer?
   
         Data: 13/06/2024
         Local: Casa de um dos membros da equipe. 
 -   Qual a duração prevista de cada sessão?
   
-        Aproximadamente 10 minutos a 15 minutos por usuário.
+        Aproximadamente 5 minutos por usuário.
 -   Qual o estado do sistema no início do teste?
   
         - O sistema deve estar configurado no protótipo funcional que os usuários irão testar.
@@ -249,17 +249,26 @@ ANTES de conduzir o teste, defina as seguintes questões:
     Cadastrar nova oficina ou atividade (Coordenador):
     
         Usuário preenche o formulário de cadastro de oficina/atividade e confirma o cadastro com sucesso.
+    
+***5.2. Resultados Obtidos e Conclusão*** 
 
-Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
+A avaliação do sistema foi realizada com dois usuários-chave, sendo eles um voluntário e um coordenador. Ambos os usuários forneceram feedback positivo, destacando que o sistema é rápido e possui uma navegação intuitiva. Foi mencionado por parte do coordenador apenas um ponto a melhorar no design, na questão de exibir horario que ocorre as oficinas, na tela de visualizar oficinas.
+  
+Os resultados das avaliações indicam que os princípios e metas de usabilidade considerados importantes para o sistema foram, em sua maioria, satisfeitos:
 
--   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
--   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
-- Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
+- Efetividade: Os usuários foram capazes de utilizar o sistema sem relatar dificuldades significativas, sugerindo que o sistema permite aos usuários alcançar seus objetivos de forma eficaz.
+- Eficiência: O feedback positivo sobre a rapidez do sistema indica que os usuários podem realizar suas tarefas sem gastar mais tempo do que o necessário.
+- Satisfação: A navegação intuitiva contribui para uma experiência de usuário positiva, resultando em alta satisfação.
 
-## Referências
+**Sugestões de Melhorias**
+  
+Troca da Data por Horário das Oficinas:
+Substituir a data pelas informações de horários específicos em que ocorrerão as oficinas. Isso pode ajudar os usuários a planejar melhor sua participação, especialmente quando as oficinas ocorrem em múltiplos horários em um mesmo dia.
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+**Conclusão:**
 
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+Os feedbacks iniciais foram positivos, indicando que o sistema está no caminho certo em termos de usabilidade e desempenho. No entanto, para garantir uma melhoria contínua, é crucial implementar a sugestão de substituir a data pelas informações de horário das oficinas, expandir a avaliação para incluir uma base de usuários mais ampla e diversificada, utilizar métodos de coleta de feedback mais variados e detalhados, e criar um ambiente onde a crítica construtiva seja incentivada. Essas sugestões de melhorias devem ser consideradas na próxima versão do protótipo para garantir que o sistema continue evoluindo e atendendo às necessidades de todos os seus usuários.
 
-[2] Stackedit.io <edição de texto para o GitHub>
+
+
+
